@@ -1,4 +1,4 @@
-# Red's WeakAuras
+# Reds WeakAuras
 Strings for the WeakAuras2 addon
  
 Brewmaster Monk: http://www.mmo-champion.com/threads/1478510-Monk-WeakAuras-All-Specs?p=33599924&viewfull=1#post33599924<br>
